@@ -38,6 +38,8 @@ Blinkit requires a comprehensive dashboard to analyze its sales performance, out
  - Average Rating
 
         Avg Rating = AVERAGE('BlinkIT Grocery Data'[Rating])
+   
+## Snapshot of Dashboard (Power BI Service)
 
         
 ## Insights 
